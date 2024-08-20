@@ -1,0 +1,36 @@
+#flex {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-top: 200px;
+    font-weight: bold;
+ 
+}
+
+.flex1 {
+    width: 100px;
+    background-color: red;
+    color: white;
+    padding: 30px;
+    border: solid 10px black;
+    margin: 10px;
+    flex-grow: 2;
+}
+
+.flex2 {
+    width: 100px;
+    background-color: red;
+    color: white;
+    padding: 30px;
+    border: solid 10px black;
+    margin: 10px;
+}
+
+.flex3 {
+    width: 100px;
+    background-color: red;
+    color: white;
+    padding: 30px;
+    border: solid 10px black;
+    margin: 10px;
+}
